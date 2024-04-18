@@ -1,2 +1,0 @@
-cd ../
-start git-cmd
